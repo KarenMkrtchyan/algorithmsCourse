@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "algorithmscourse",
+  "version": "1.0.0",
+  "main": "karatsubaMultiplication.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
